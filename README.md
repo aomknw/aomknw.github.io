@@ -1,32 +1,44 @@
-# 🌸 **Welcome to 6530250514.github.io** 🌸
+# 🌸✨ **Welcome to 6530250514.github.io** ✨🌸
 
-## 💖 Project Overview 💖
+## 💖 **Project Overview** 💖
 - **Kanokwan**  
   - **Aom**  
+
+---
+
+## 📸 **Project Snapshot** 📸
 
 ![alt text](IMG_5457.jpeg)
 
 ---
 
-## 📚 **Navigation**
+## 📚 **Navigation** 📚
 
-- [🔐 AUTHENTICATION](authentication)
-- [🍪 Cookie](cookie.md)
+| **Section**           | **Link**                       |
+|-----------------------|--------------------------------|
+| 🔐 **Authentication**  | [Authentication](authentication)  |
+| 🍪 **Cookie**          | [Cookie](cookie.md)            |
 
 ---
 
-## ✨ Fun Facts ✨
+## 🌈 **Fun Facts** 🌈
+
 - **Kanokwan** และ **Aom** คือสองตัวละครที่ทำให้โปรเจคนี้เกิดขึ้น!
 - เราหวังว่าคุณจะสนุกกับการสำรวจเว็บไซต์นี้นะคะ 💕
 
 ---
 
-## 🌟 Connect with Us 🌟
+## 📝 **Contact Us** 📝
 
-- 📧 **Email:** kanokwan.aom@example.com
-- 🌐 **Website:** [6530250514.github.io](https://6530250514.github.io)
+| 📧 **Email**                | 🌐 **Website**                 |
+|-----------------------------|--------------------------------|
+| kanokwan.aom@example.com    | [6530250514.github.io](https://6530250514.github.io) |
 
 ---
 
-💬 **Feedback?**  
-Feel free to drop us a message! Let's make this project even better together! 💕
+## ✨ **Have Questions?** ✨  
+Feel free to ask! Let’s make this project better together! 💕
+
+---
+
+### 🌟 **Stay Tuned!** 🌟
