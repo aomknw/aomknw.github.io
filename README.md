@@ -10,7 +10,7 @@
 
 ## 📸 **Project Snapshot** 📸
 
-![Project Image](Images/IMG_5457.jpeg)
+![Project Image](Images/IMG_6293.jpeg)
 
 ---
 
@@ -27,7 +27,7 @@
 ## 🎄 **Merry Christmas & Happy New Year 2025** 🎆
 
 ✨ *Wishing you a joyful and prosperous year ahead!* ✨  
-![E-Card](images/e-card.png)
+![E-Card](Images/e-card.png)
 
 ---
 
