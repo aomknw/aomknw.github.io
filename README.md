@@ -1,6 +1,8 @@
-# ✨ **Welcome to aomknw.github.io** ✨
+# ✨ **Welcome to [aomknw.github.io](https://aomknw.github.io)** ✨
 
-## **Project Overview** 
+---
+
+## 🌟 **Project Overview**  
 - **Kanokwan**  
   - **Aom**  
 
@@ -8,13 +10,25 @@
 
 ## 📸 **Project Snapshot** 📸
 
-![alt text](Images/IMG_5457.jpeg)
+![Project Image](Images/IMG_5457.jpeg)
 
 ---
 
 ## 📚 **Navigation** 📚
 
-| **Section**           | **Link**                       |
-|-----------------------|--------------------------------|
-| 🔐 **Authentication**  | [Authentication](authentication)  |
-| 🍪 **Cookie**          | [Cookie](cookie.md)            |
+| **Section**           | **Description**              | **Link**                              |
+|-----------------------|-----------------------------|--------------------------------------|
+| 🔐 **Authentication**  | Authentication Page         | [Authentication](authentication)     |
+| 🍪 **Cookie**          | Cookie Management Page      | [Cookie](cookie.md)                  |
+| 🎄 **Holiday E-Card**  | Christmas & New Year 2025   | [Merry Christmas & Happy New Year 2025](https://aomknw.github.io/e-card/) |
+
+---
+
+## 🎄 **Merry Christmas & Happy New Year 2025** 🎆
+
+✨ *Wishing you a joyful and prosperous year ahead!* ✨  
+![E-Card](images/e-card.png)
+
+---
+
+### 🎁 **Thank you for visiting!**
