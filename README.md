@@ -21,6 +21,7 @@
 | 🔐 **Authentication**  | Authentication Page         | [Authentication](authentication)     |
 | 🍪 **Cookie**          | Cookie Management Page      | [Cookie](cookie.md)                  |
 | 🎄 **Holiday E-Card**  | Christmas & New Year 2025   | [Merry Christmas & Happy New Year 2025](e-card.md) |
+| 🔐 **Data Quality**    | Data Completeness           | [Data Completeness](completeness.html) |
 
 ---
 
