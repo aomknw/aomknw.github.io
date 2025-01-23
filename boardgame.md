@@ -25,8 +25,8 @@ Click ที่ภาพเพื่อดูบรรยากาศการ�
 
 # 🙋🏻‍♀️ Team Members
 
-1. [Kemikha Chan-Ngam](https://kemikha01.github.io/boardgame)
+1. [Nisita Panichwaisawan](https://kemikha01.github.io/boardgame)
 2. [Pariyakorn Kullama](https://6530200274.github.io/boardgame)
 3. [Kanokwan Riamsri](https://penpicha31.github.io/boardgame)
-4. [Kanokwan Riamsri](https://manatsawee-pi.github.io/boardgame)
-5. [Kanokwan Riamsri](https://skyandz.github.io/boardgame)
+4. [Chitlada Prasroetsang](https://manatsawee-pi.github.io/boardgame)
+5. [Panissara Boonparkorb](https://skyandz.github.io/boardgame)
