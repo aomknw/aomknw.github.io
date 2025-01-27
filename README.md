@@ -23,7 +23,7 @@
 | 🎄 **Holiday E-Card**  | Christmas & New Year 2025   | [Merry Christmas & Happy New Year 2025](e-card.md) |
 | 🔐 **Data Quality**    | Data Completeness           | [Data Completeness](completeness.html) |
 | 🎮 **Boardgame**       | NCSA's Boardgame            | [NCSA's Boardgame](boardgame.md) |
-| 🔒 **Security Control**| Security Control Overview   | [Security Control](security-control.md) |
+| 🔒 **Security Control**| Security Control Overview   | [Security Control](https://aomknw.github.io/security-control) |
 
 ---
 
