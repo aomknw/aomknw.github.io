@@ -18,7 +18,7 @@
 
 | **Section**           | **Description**              | **Link**                              |
 |-----------------------|-----------------------------|--------------------------------------|
-| 🔐 **Authentication**  | Authentication Page         | [Authentication](authentication)     |
+| 🔐 **Authentication**  | Authentication Page         | [Authentication](https://aomknw.github.io/authentication)     |
 | 🍪 **Cookie**          | Cookie Management Page      | [Cookie](https://aomknw.github.io/cookie)                  |
 | 🎄 **Holiday E-Card**  | Christmas & New Year 2025   | [Merry Christmas & Happy New Year 2025](https://aomknw.github.io/e-card) |
 | 🔐 **Data Quality**    | Data Completeness           | [Data Completeness](https://aomknw.github.io/completeness) |
