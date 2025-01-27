@@ -19,10 +19,10 @@
 | **Section**           | **Description**              | **Link**                              |
 |-----------------------|-----------------------------|--------------------------------------|
 | 🔐 **Authentication**  | Authentication Page         | [Authentication](authentication)     |
-| 🍪 **Cookie**          | Cookie Management Page      | [Cookie](cookie.md)                  |
-| 🎄 **Holiday E-Card**  | Christmas & New Year 2025   | [Merry Christmas & Happy New Year 2025](e-card.md) |
-| 🔐 **Data Quality**    | Data Completeness           | [Data Completeness](completeness.html) |
-| 🎮 **Boardgame**       | NCSA's Boardgame            | [NCSA's Boardgame](boardgame.md) |
+| 🍪 **Cookie**          | Cookie Management Page      | [Cookie](https://aomknw.github.io/cookie)                  |
+| 🎄 **Holiday E-Card**  | Christmas & New Year 2025   | [Merry Christmas & Happy New Year 2025](https://aomknw.github.io/e-card) |
+| 🔐 **Data Quality**    | Data Completeness           | [Data Completeness](https://aomknw.github.io/completeness) |
+| 🎮 **Boardgame**       | NCSA's Boardgame            | [NCSA's Boardgame](https://aomknw.github.io/boardgame) |
 | 🔒 **Security Control**| Security Control Overview   | [Security Control](https://aomknw.github.io/security-control) |
 
 ---
