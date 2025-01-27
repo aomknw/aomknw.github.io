@@ -10,7 +10,7 @@
 
 ## 📸 **Project Snapshot** 📸
 
-![Project Image](Images/IMG_5457.jpeg)
+![Project Image](Images/IMG_7111.jpeg)
 
 ---
 
