@@ -1,3 +1,6 @@
+
+![Digital Door Lock](Images/)
+
 - **Location**:  
   Digital Door Lock ติดตั้งที่คอนโด **The Indeed Kaset**
 
