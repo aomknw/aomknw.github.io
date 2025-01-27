@@ -31,4 +31,4 @@ Click ที่ภาพเพื่อดูบรรยากาศการ�
 4. [Chitlada Prasroetsang]()
 5. [Panissara Boonparkorb]()
 
-[⬅ Back](README.md)
+[🔙 Back to Profile](https://aomknw.github.io)  
