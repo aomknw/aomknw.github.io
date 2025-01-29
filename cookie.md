@@ -23,7 +23,7 @@
 
 ---
 
-[My friend](https://panissaraaa.github.io/6530250557.github.io/)
+[My friend](https://Panissaraaa.github.io)
 
 [🔙 Back to Profile](https://aomknw.github.io)  
 
