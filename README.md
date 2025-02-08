@@ -25,6 +25,7 @@
 | 🎮 **Boardgame**       | NCSA's Boardgame            | [NCSA's Boardgame](https://aomknw.github.io/boardgame) |
 | 🔒 **Security Control**| Security Control Overview   | [Security Control](https://aomknw.github.io/security-control) |
 | 🗳️ **PAO Elections**   | Chonburi PAO Elections 2025 | [PAO Elections](https://aomknw.github.io/pao-elections) |
+| 🔐 **Security Requirement** | ข้อกำหนดด้านความปลอดภัย | [Security Requirement](https://aomknw.github.io/security-requirement) |
 
 ---
 
